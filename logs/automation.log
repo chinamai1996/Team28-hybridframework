@@ -1,0 +1,80 @@
+16:27:54.227 [main] INFO  TestCase.TC_001_Regitration - ******Application Opened******
+16:27:54.795 [main] INFO  TestCase.TC_001_Regitration - *****Application Maximized******
+16:27:54.819 [main] INFO  TestCase.TC_001_Regitration - *****Apllyingimplicit wait****
+16:27:57.344 [main] INFO  TestCase.TC_001_Regitration - ******clicked on create account*****
+16:27:57.526 [main] INFO  TestCase.TC_001_Regitration - *****entered firstname*****
+16:27:57.612 [main] INFO  TestCase.TC_001_Regitration - ******Entered lastname*****
+16:27:57.788 [main] INFO  TestCase.TC_001_Regitration - ******entered email*****
+16:27:57.945 [main] INFO  TestCase.TC_001_Regitration - *****Entered password*****
+16:27:58.044 [main] INFO  TestCase.TC_001_Regitration - *****Entered cnfpassword*****
+16:28:04.553 [main] INFO  TestCase.TC_001_Regitration - *****clicked on register*****
+15:39:02.327 [main] INFO  TestCase.TC_001_Regitration - ******Application Opened******
+15:39:02.476 [main] INFO  TestCase.TC_001_Regitration - *****Application Maximized******
+15:39:02.497 [main] INFO  TestCase.TC_001_Regitration - *****Apllyingimplicit wait****
+15:39:04.476 [main] INFO  TestCase.TC_001_Regitration - ******clicked on create account*****
+15:39:04.687 [main] INFO  TestCase.TC_001_Regitration - *****entered firstname*****
+15:39:04.786 [main] INFO  TestCase.TC_001_Regitration - ******Entered lastname*****
+15:39:04.964 [main] INFO  TestCase.TC_001_Regitration - ******entered email*****
+15:39:05.138 [main] INFO  TestCase.TC_001_Regitration - *****Entered password*****
+15:39:05.248 [main] INFO  TestCase.TC_001_Regitration - *****Entered cnfpassword*****
+15:39:07.215 [main] INFO  TestCase.TC_001_Regitration - *****clicked on register*****
+16:14:31.765 [main] INFO  TestCase.TC_001_Regitration - ******Application Opened******
+16:14:31.952 [main] INFO  TestCase.TC_001_Regitration - *****Application Maximized******
+16:14:31.978 [main] INFO  TestCase.TC_001_Regitration - *****Apllyingimplicit wait****
+16:14:34.170 [main] INFO  TestCase.TC_001_Regitration - ******clicked on create account*****
+16:14:34.330 [main] INFO  TestCase.TC_001_Regitration - *****entered firstname*****
+16:14:34.429 [main] INFO  TestCase.TC_001_Regitration - ******Entered lastname*****
+16:14:34.586 [main] INFO  TestCase.TC_001_Regitration - ******entered email*****
+16:14:34.746 [main] INFO  TestCase.TC_001_Regitration - *****Entered password*****
+16:14:34.862 [main] INFO  TestCase.TC_001_Regitration - *****Entered cnfpassword*****
+16:14:36.709 [main] INFO  TestCase.TC_001_Regitration - *****clicked on register*****
+11:36:26.579 [main] INFO  TestCase.TC_001_Regitration - ******Application Opened******
+11:36:26.904 [main] INFO  TestCase.TC_001_Regitration - *****Application Maximized******
+11:36:26.933 [main] INFO  TestCase.TC_001_Regitration - *****Apllyingimplicit wait****
+11:36:29.563 [main] INFO  TestCase.TC_001_Regitration - ******clicked on create account*****
+11:36:29.862 [main] INFO  TestCase.TC_001_Regitration - *****entered firstname*****
+11:36:29.977 [main] INFO  TestCase.TC_001_Regitration - ******Entered lastname*****
+11:36:30.190 [main] INFO  TestCase.TC_001_Regitration - ******entered email*****
+11:36:30.463 [main] INFO  TestCase.TC_001_Regitration - *****Entered password*****
+11:36:30.660 [main] INFO  TestCase.TC_001_Regitration - *****Entered cnfpassword*****
+11:36:33.753 [main] INFO  TestCase.TC_001_Regitration - *****clicked on register*****
+16:12:41.452 [main] INFO  TestCase.TC_001_Regitration - ******Application Opened******
+16:12:41.563 [main] INFO  TestCase.TC_001_Regitration - *****Application Maximized******
+16:12:41.589 [main] INFO  TestCase.TC_001_Regitration - *****Apllyingimplicit wait****
+16:12:43.374 [main] INFO  TestCase.TC_001_Regitration - ******clicked on create account*****
+16:12:43.764 [main] INFO  TestCase.TC_001_Regitration - *****entered firstname*****
+16:12:43.845 [main] INFO  TestCase.TC_001_Regitration - ******Entered lastname*****
+16:12:43.978 [main] INFO  TestCase.TC_001_Regitration - ******entered email*****
+16:12:44.125 [main] INFO  TestCase.TC_001_Regitration - *****Entered password*****
+16:12:44.228 [main] INFO  TestCase.TC_001_Regitration - *****Entered cnfpassword*****
+16:12:46.195 [main] INFO  TestCase.TC_001_Regitration - *****clicked on register*****
+16:50:26.640 [main] INFO  TestCase.TC_001_Regitration - ******Application Opened******
+16:50:27.125 [main] INFO  TestCase.TC_001_Regitration - *****Application Maximized******
+16:50:27.202 [main] INFO  TestCase.TC_001_Regitration - *****Apllyingimplicit wait****
+16:50:31.545 [main] INFO  TestCase.TC_001_Regitration - ******clicked on create account*****
+16:50:31.778 [main] INFO  TestCase.TC_001_Regitration - *****entered firstname*****
+16:50:31.892 [main] INFO  TestCase.TC_001_Regitration - ******Entered lastname*****
+16:50:32.050 [main] INFO  TestCase.TC_001_Regitration - ******entered email*****
+16:50:32.237 [main] INFO  TestCase.TC_001_Regitration - *****Entered password*****
+16:50:32.362 [main] INFO  TestCase.TC_001_Regitration - *****Entered cnfpassword*****
+16:50:35.045 [main] INFO  TestCase.TC_001_Regitration - *****clicked on register*****
+17:05:56.410 [main] INFO  TestCase.TC_001_Regitration - ******Application Opened******
+17:06:00.772 [main] INFO  TestCase.TC_001_Regitration - *****Application Maximized******
+17:06:00.813 [main] INFO  TestCase.TC_001_Regitration - *****Apllyingimplicit wait****
+17:06:03.309 [main] INFO  TestCase.TC_001_Regitration - ******clicked on create account*****
+17:06:03.761 [main] INFO  TestCase.TC_001_Regitration - *****entered firstname*****
+17:06:03.850 [main] INFO  TestCase.TC_001_Regitration - ******Entered lastname*****
+17:06:04.003 [main] INFO  TestCase.TC_001_Regitration - ******entered email*****
+17:06:04.161 [main] INFO  TestCase.TC_001_Regitration - *****Entered password*****
+17:06:04.269 [main] INFO  TestCase.TC_001_Regitration - *****Entered cnfpassword*****
+17:06:06.660 [main] INFO  TestCase.TC_001_Regitration - *****clicked on register*****
+17:25:27.284 [main] INFO  TestCase.TC_001_Regitration - ******Application Opened******
+17:25:27.373 [main] INFO  TestCase.TC_001_Regitration - *****Application Maximized******
+17:25:27.395 [main] INFO  TestCase.TC_001_Regitration - *****Apllyingimplicit wait****
+17:25:29.825 [main] INFO  TestCase.TC_001_Regitration - ******clicked on create account*****
+17:25:29.964 [main] INFO  TestCase.TC_001_Regitration - *****entered firstname*****
+17:25:30.074 [main] INFO  TestCase.TC_001_Regitration - ******Entered lastname*****
+17:25:30.212 [main] INFO  TestCase.TC_001_Regitration - ******entered email*****
+17:25:30.351 [main] INFO  TestCase.TC_001_Regitration - *****Entered password*****
+17:25:30.462 [main] INFO  TestCase.TC_001_Regitration - *****Entered cnfpassword*****
+17:25:32.918 [main] INFO  TestCase.TC_001_Regitration - *****clicked on register*****
